@@ -16,12 +16,20 @@ We fully trained the parameters of pre-trained CLIP model with Cross-Entropy Los
 Here are some examples of generated humor caption from our CLIP-based Finetuned model.
 
 [1]
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/6a16361c-40a8-4ea7-bffd-a8485f421b0a)
 ![image](https://github.com/user-attachments/assets/e832097e-8c20-4d36-882c-8bf79cd09c94)
 
 
 
 [2]
-![image](https://github.com/user-attachments/assets/ae0b5b16-72ee-413b-82a4-ccf7ef869f6f)
 
+
+
+
+![image](https://github.com/user-attachments/assets/ae0b5b16-72ee-413b-82a4-ccf7ef869f6f)
 ![image](https://github.com/user-attachments/assets/72ed13e2-a4a3-49fa-9d1c-057f97e052a5)
